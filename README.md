@@ -25,6 +25,3 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A low-level utility-first CSS framework for building modern designs.
 - [**Framer Motion**](https://www.framer.com/motion/) - A library for creating animations and gestures in React applications.
 
-##  License
-
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
